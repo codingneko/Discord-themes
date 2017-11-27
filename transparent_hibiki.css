@@ -1,0 +1,100 @@
+body, .app{
+	background-image:url(http://konachan.net/image/42387b5a2b28dca9db3099b396054d68/Konachan.com%20-%20193983%202girls%20anthropomorphism%20blue_eyes%20blush%20hat%20kantai_collection%20long_hair%20pantyhose%20purple_eyes%20scarf%20skirt%20thighhighs%20verniy_%28kancolle%29%20yonjyuugo.jpg);
+	background-size: cover;
+}
+
+.typeWindows-15E0Ys {
+    height: 18px;
+    margin-top: 0px;
+    padding-top: 4px;
+    background: #111;
+}
+
+.theme-dark .layer, .theme-dark .layers {
+    background: rgba(0,0,0,0);
+}
+
+.container-2OU7Cz {
+    background-color: rgba(0,0,0,0);
+}
+
+.guilds-wrapper {
+    -ms-flex-direction: column;
+    -ms-flex-negative: 0;
+    -webkit-box-direction: normal;
+    -webkit-box-orient: vertical;
+    background: rgba(47, 49, 54, 0.28);
+    contain: layout;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+    overflow: hidden;
+    position: relative;
+    width: 70px;
+}
+
+.container-RYiLUQ {
+    background: rgba(47, 49, 54, 0);
+    contain: layout;
+    min-height: 0;
+    position: relative;
+}
+
+.channels-3g2vYe {
+    -ms-flex-negative: 0;
+    background: rgba(47, 49, 54, 0.28);
+    flex-shrink: 0;
+    width: 240px;
+}
+
+.container-iksrDt {
+    -ms-flex-align: center;
+    -ms-flex-negative: 0;
+    -webkit-box-align: center;
+    align-items: center;
+    background: rgba(47, 49, 54, 0.28);
+    color: #fff;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    flex-shrink: 0;
+    font-size: 14px;
+    font-weight: 400;
+    height: 52px;
+    margin-bottom: 0px;
+    padding: 0 10px;
+}
+
+.theme-dark .chat {
+    background-color: hsla(0, 0%, 100%, 0);
+}
+.theme-dark .chat>.content {
+    background-color: rgba(47, 49, 54, 0.28);
+}
+
+.theme-dark .channel-members {
+    background-color: rgba(47, 49, 54, 0.28);
+}
+
+.theme-dark .title-qAcLxz {
+    background: rgba(47, 49, 54, 0.28);
+}
+
+.theme-dark .chat form  {
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.theme-dark .chat form .typing {
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.theme-dark .messages-wrapper {
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.theme-dark .friends-table .scroller-wrap ::-webkit-scrollbar-track-piece, .theme-dark .messages-wrapper .scroller-wrap ::-webkit-scrollbar-track-piece {
+    background-color: rgba(47, 49, 54, 0.28);
+    border-color: #36393e;
+}
